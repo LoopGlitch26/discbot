@@ -1,0 +1,15 @@
+/config.yml
+Pipfile.lock
+
+*.pyc
+*.log
+
+venv/
+.mypy_cache/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+mypy.ini
+.pylintrc
+.flake8
